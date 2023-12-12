@@ -1,1 +1,1 @@
-It's a simple dom banking calculator project using HTML, CSS and Javascript
+It's a simple dome banking calculator project using HTML, CSS and Javascript
